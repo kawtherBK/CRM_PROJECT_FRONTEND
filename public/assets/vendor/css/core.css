@@ -344,7 +344,12 @@ textarea {
 
 button,
 select {
+ 
   text-transform: none;
+    border: 0;
+    background-color: #fff;
+    color: #687482;
+   padding-left: 0px
 }
 
 [role=button] {
@@ -8812,6 +8817,12 @@ button.list-group-item-gray.active {
 
 .align-middle {
   vertical-align: middle !important;
+  text-transform: none;
+  border: 0;
+  background-color: #fff;
+  color: #687482;
+  padding-left: 0px;
+
 }
 
 .align-bottom {
